@@ -20,13 +20,12 @@ In this work we propose *Sieve & Swap* technique, to automatically generate high
   <image src="./assets/sieve_n_swap.png" alt="sieve and swap approach" width=60%/>
 </p>
 
-
 ## Dataset
-***Pre-Training*** : [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/), [RecipeNLG](https://github.com/Glorf/recipenlg)
+***Sieve & Swap*** : Our curated dataset along with processed features can be downloaded from :hugs: [Hugging Face](https://huggingface.co/datasets/anilbatra/sieve_and_swap).
+
+***Raw Pre-Training*** : [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/), [RecipeNLG](https://github.com/Glorf/recipenlg)
 
 ***Downstream Task*** : [YouCook2](http://youcook2.eecs.umich.edu/), [Tasty](https://cvml.comp.nus.edu.sg/tasty/download.html)
-
-***Download*** : Sieve and Swap dataset along with processed features can be downloaded from :hugs: [Hugging Face](https://huggingface.co/datasets/anilbatra/sieve_and_swap).
 
 ## Code
 
