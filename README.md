@@ -21,7 +21,7 @@ In this work we propose *Sieve & Swap* technique, to automatically generate high
 </p>
 
 ## Dataset
-***Sieve & Swap*** : Our curated dataset along with processed features can be downloaded from :hugs: [Hugging Face](https://huggingface.co/datasets/anilbatra/sieve_and_swap).
+***Sieve & Swap*** : Our curated dataset along with processed features can be downloaded from :hugs: [Hugging Face](https://huggingface.co/datasets/anilbatra/sieve_and_swap). More details are available in [data.md](docs/data.md)
 
 ***Raw Pre-Training*** : [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/), [RecipeNLG](https://github.com/Glorf/recipenlg)
 
