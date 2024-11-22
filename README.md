@@ -36,13 +36,13 @@ In this work we propose *Sieve & Swap* technique, to automatically generate high
 If you find this project useful in your research, please consider cite:
 ```BibTeX
 
-@misc{batra2024sns,
-      title={Efficient Pre-training for Localized Instruction Generation of Videos}, 
-      author={Anil Batra and Davide Moltisanti and Laura Sevilla-Lara and Marcus Rohrbach and Frank keller},
-      year={2024},
-      eprint={2311.15964},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{batra2025efficient,
+  title={Efficient Pre-training for Localized Instruction Generation of Procedural Videos},
+  author={Batra, Anil and Moltisanti, Davide and Sevilla-Lara, Laura and Rohrbach, Marcus and Keller, Frank},
+  booktitle={European Conference on Computer Vision},
+  pages={347--363},
+  year={2025},
+  organization={Springer}
 }
 ```
 
